@@ -3,7 +3,7 @@ Fecha del experimento: 2022-12-30
 Categoria: Biologico
 Resultados: 4.6, 4.3, 4.1
 Promedio de Resultados: 4.333333333333333
-Miximo: 4.6
+Maximo: 4.6
 Minimo: 4.1
 
 Nombre: Proyecto 2
