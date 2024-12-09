@@ -1,0 +1,16 @@
+Nombre: Marlly
+Fecha del experimento: 2002-11-13
+Categoría: Notas
+Resultados: 3.5, 4.2, 3.8
+Promedio de Resultados: 3.8333333333333335
+Máximo: 4.2
+Mínimo: 3.5
+
+Nombre: Jose
+Fecha del experimento: 1983-12-06
+Categoría: Medicina
+Resultados: 4.5, 3.2, 3.9
+Promedio de Resultados: 3.8666666666666667
+Máximo: 4.5
+Mínimo: 3.2
+
