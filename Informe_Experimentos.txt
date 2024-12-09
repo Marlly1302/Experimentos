@@ -1,16 +1,16 @@
-Nombre: Proyecto 2
+Nombre: Proyecto 1
 Fecha del experimento: 2022-12-30
-Categor�a: Biologico
+Categoria: Biologico
 Resultados: 4.6, 4.3, 4.1
 Promedio de Resultados: 4.333333333333333
-M�ximo: 4.6
-M�nimo: 4.1
+Miximo: 4.6
+Minimo: 4.1
 
-Nombre: Proyecto 1
+Nombre: Proyecto 2
 Fecha del experimento: 2019-10-12
-Categor�a: Quimico
+Categoria: Quimico
 Resultados: 4.5, 4.6, 3.9
 Promedio de Resultados: 4.333333333333333
-M�ximo: 4.6
-M�nimo: 3.9
+Miximo: 4.6
+Minimo: 3.9
 
